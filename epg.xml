@@ -108,7 +108,7 @@
 <channel site="tbc.net.tw" site_id="9" update="i" xmltv_id="ZSW.TW">中視</channel>
 <channel site="tbc.net.tw" site_id="154" update="i" xmltv_id="ZSX.TW">中視新聞台</channel>
 <channel site="tbc.net.tw" site_id="11" update="i" xmltv_id="HSW.TW">華視</channel>
-channel site="tbc.net.tw" site_id="13" update="i" xmltv_id="GS1.TW">公視</channel>
+<channel site="tbc.net.tw" site_id="13" update="i" xmltv_id="GS1.TW">公視</channel>
 <channel site="tbc.net.tw" site_id="14" update="i" xmltv_id="GS2.TW">公視台語台</channel>
 <channel site="tbc.net.tw" site_id="121" update="i" xmltv_id="GS3.TW">公視3台</channel>
 <channel site="tbc.net.tw" site_id="10" update="i" xmltv_id="DA1.TW">大愛1台</channel>
