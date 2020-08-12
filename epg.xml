@@ -830,10 +830,70 @@
   <channel id="VT4.VN">
     <display-name lang="vi">VTV4</display-name>
     <url>http://www.vtv.vn</url>
+   </channel>
+  <channel id="VT5.VN">
+    <display-name lang="vi">VTV5</display-name>
+    <url>http://www.vtv.vn</url>
   </channel>
   <channel id="VT6.VN">
     <display-name lang="vi">VTV6</display-name>
     <url>http://www.vtv.vn</url>
+  </channel>
+  <channel id="VT7.VN">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.vtv.vn</url>
+  </channel>
+  <channel id="VT8.VN">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.vtv.vn</url>
+  </channel>
+  <channel id="VT9.VN">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.vtv.vn</url>
+  </channel>
+  <channel id="HN1.VN">
+    <display-name lang="vi">Hà Nội 1 HD</display-name>
+    <url>http://www.hanoitv.vn</url>
+  </channel>
+  <channel id="HN2.VN">
+    <display-name lang="vi">Hà Nội 2 HD</display-name>
+    <url>http://www.hanoitv.vn</url>
+  </channel>
+  <channel id="HBTV.VN">
+    <display-name lang="vi">Hòa Bình</display-name>
+    <url>http://www.hoabinhtv.vn</url>
+  </channel>
+  <channel id="LSTV.VN">
+    <display-name lang="vi">Lạng Sơn</display-name>
+    <url>http://www.langsontv.vn</url>
+  </channel>
+  <channel id="BGTV.VN">
+    <display-name lang="vi">Bắc Giang</display-name>
+    <url>http://www.bacgiangtv.vn</url>
+  </channel>
+  <channel id="BNTV.VN">
+    <display-name lang="vi">Bắc Ninh</display-name>
+    <url>http://www.bacninhtv.vn</url>
+  </channel>
+  <channel id="HYTV.VN">
+    <display-name lang="vi">Hưng Yên</display-name>
+    <url>http://www.hungyentv.vn</url>
+  </channel>
+  <channel id="HDTV.VN">
+    <display-name lang="vi">Hải Dương</display-name>
+    <url>http://www.haiduongtv.vn</url>
+  </channel>
+  <channel id="THP.VN">
+    <display-name lang="vi">Hải Phòng</display-name>
+    <url>http://www.thhp.vn</url>
+  </channel>
+  <channel id="HTTV.VN">
+    <display-name lang="vi">Hà Tĩnh</display-name>
+    <url>http://www.hatinhtv.vn</url>
+  </channel>
+  <channel id="KTV.VN">
+    <display-name lang="vi">Khánh Hòa</display-name>
+    <url>http://www.ktv.org.vn</url>
   </channel>
   <channel id="Fli.IN">
     <display-name lang="en">&amp;flix</display-name>
@@ -2459,170 +2519,3 @@
     <display-name lang="es">Canal RCN</display-name>
     <url>http://www.claro.com</url>
   </channel>
- 
-
-<channel update="i" site="ftpplay.net" site_id="27" xmltv_id="HN1.VN">Hà Nội 1 HD</channel>
-<channel update="i" site="ftpplay.net" site_id="28" xmltv_id="HN1.VN">Hà Nội 2 HD</channel>
-<channel update="i" site="ftpplay.net" site_id="31" xmltv_id="HBTV.VN">Hòa Bình</channel>
-<channel update="i" site="ftpplay.net" site_id="39" xmltv_id="LSTV.VN">Lạng Sơn</channel>
-<channel update="i" site="ftpplay.net" site_id="39" xmltv_id="LSTV.VN">Lạng Sơn HD</channel>
-<channel update="i" site="ftpplay.net" site_id="5" xmltv_id="BNTV.VN">Bắc Ninh</channel>
-<channel update="i" site="ftpplay.net" site_id="5" xmltv_id="BNTV.VN">Bắc Ninh HD</channel>
-<channel update="i" site="ftpplay.net" site_id="32" xmltv_id="HYTV.VN">Hưng Yên</channel>
-<channel update="i" site="ftpplay.net" site_id="32" xmltv_id="HYTV.VN">Hưng Yên HD</channel>
-<channel update="i" site="ftpplay.net" site_id="25" xmltv_id="THD.VN">Hải Dương</channel>
-<channel update="i" site="ftpplay.net" site_id="25" xmltv_id="THD.VN">Hải Dương HD</channel>
-<channel update="i" site="ftpplay.net" site_id="26" xmltv_id="THP.VN">Hải Phòng HD</channel>
-<channel update="i" site="ftpplay.net" site_id="28" xmltv_id="THP.VN">Hà Tĩnh HD</channel>
-<channel update="i" site="ftpplay.net" site_id="35" xmltv_id="KTV.VN">Khánh Hòa HD</channel>
-
-<channel update="i" site="tv.cntv.cn" site_id="anhui" xmltv_id="AHW.CN">安徽卫视</channel>  
-<channel update="i" site="tv.cntv.cn" site_id="dongfang" xmltv_id="DFW.CN">东方卫视</channel> 
-<channel update="i" site="tv.cntv.cn" site_id="guangdong" xmltv_id="GDW.CN">广东卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="jiangsu" xmltv_id="JSW.CN">江苏卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="zhejiang" xmltv_id="ZJW.CN">浙江卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="hunan" xmltv_id="HNW.CN">湖南卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv4k" xmltv_id="C4K.CN">CCTV4K 超高清</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv1" xmltv_id="CT1.CN">CCTV1 综合</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv2" xmltv_id="CT2.CN">CCTV2 财经</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv3" xmltv_id="CT3.CN">CCTV3 文艺</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv4" xmltv_id="CT4.CN">CCTV4 中文国际</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv5" xmltv_id="CT5.CN">CCTV-5 体育</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv5plus" xmltv_id="C5P.CN">CCTV5+ 体育赛事</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv6" xmltv_id="CT6.CN">CCTV6 电影</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv7" xmltv_id="CT7.CN">CCTV7 军事</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv8" xmltv_id="CT8.CN">CCTV8 电视剧</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctvjilu" xmltv_id="CT9.CN">CCTV9 纪录</channel>   
-<channel update="i" site="tv.cntv.cn" site_id="cctv10" xmltv_id="C10.CN">CCTV10 科教</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv11" xmltv_id="C11.CN">CCTV11 戏曲</channel>  
-<channel update="i" site="tv.cntv.cn" site_id="cctv12" xmltv_id="C12.CN">CCTV12 社会与法</channel> 
-<channel update="i" site="tv.cntv.cn" site_id="cctv13" xmltv_id="C13.CN">CCTV13 新闻</channel> 
-<channel update="i" site="tv.cntv.cn" site_id="cctvchild" xmltv_id="C14.CN">CCTV14 少儿</channel> 
-<channel update="i" site="tv.cntv.cn" site_id="cctv15" xmltv_id="C15.CN">CCTV15 音乐</channel>
-<channel update="i" site="tv.cntv.cn" site_id="cctv17" xmltv_id="C17.CN">CCTV17 农业农村</channel>
-<channel update="i" site="tv.cntv.cn" site_id="btv1" xmltv_id="BTV.CN">北京卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="bingtuan" xmltv_id="BTW.CN">兵团卫视</channel> 
-<channel update="i" site="tv.cntv.cn" site_id="chongqing" xmltv_id="CQW.CN">重庆卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="dongnan" xmltv_id="DFN.CN">东南卫视</channel> 
-<channel update="i" site="tv.cntv.cn" site_id="guangxi" xmltv_id="GXW.CN">广西卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="gansu" xmltv_id="GSW.CN">甘肃卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="guizhou" xmltv_id="GZW.CN">贵州卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="hebei" xmltv_id="HBW.CN">河北卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="henan" xmltv_id="HNX.CN">河南卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="heilongjiang" xmltv_id="HLJ.CN">黑龙江卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="hubei" xmltv_id="HUB.CN">湖北卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="jilin" xmltv_id="JLW.CN">吉林卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="jiangxi" xmltv_id="JXW.CN">江西卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="liaoning" xmltv_id="LNW.CN">辽宁卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="travel" xmltv_id="HAI.CN">海南卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="neimenggu" xmltv_id="NNN.CN">内蒙古卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="ningxia" xmltv_id="NXW.CN">宁夏卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="qinghai" xmltv_id="QHW.CN">青海卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="shandong" xmltv_id="SDW.CN">山东卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="shenzhen" xmltv_id="SZW.CN">深圳卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="shan1xi" xmltv_id="SXW.CN">山西卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="shan3xi" xmltv_id="SXS.CN">陕西卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="sichuan" xmltv_id="SIC.CN">四川卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="tianjin" xmltv_id="TJW.CN">天津卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="xizang" xmltv_id="XZW.CN">西藏卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="xiamen" xmltv_id="XMW.CN">厦门卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="xinjiang" xmltv_id="XJW.CN">新疆卫视</channel>
-<channel update="i" site="tv.cntv.cn" site_id="yunnan" xmltv_id="YNW.CN">云南卫视</channel>
-
-<channel update="i" site="nowtv.now.com" site_id="zh_tw#366" xmltv_id="FHJ.CN">鳳凰衛視資訊台</channel>
-<channel update="i" site="nowtv.now.com" site_id="zh_tw#367" xmltv_id="FHX.CN">鳳凰衛視香港台</channel>
-<channel update="i" site="nowtv.now.com" site_id="zh_tw#548" xmltv_id="FHW.CN">鳳凰衛視中文台</channel>
-<channel update="i" site="nowtv.now.com" site_id="zh_tw#544" xmltv_id="AYW.MO">澳亞衛視</channel>
-<channel update="i" site="nowtv.now.com" site_id="zh_tw#543" xmltv_id="NFW.CN">南方卫视</channel>
-<channel update="i" site="nowtv.now.com" site_id="zh_tw#537" xmltv_id="JJW.CN">广东珠江</channel>
-<channel update="i" site="nowtv.now.com" site_id="en_us#220" xmltv_id="BBE.Asia">BBC Earth</channel>
-<channel update="i" site="tvb.com" site_id="J" xmltv_id="FCT.HK">翡翠台</channel>
-<channel update="i" site="tvb.com" site_id="B" xmltv_id="FC2.HK">J2</channel>
-<channel update="i" site="tvb.com" site_id="C" xmltv_id="WXX.HK">無綫新聞台</channel>
-<channel update="i" site="tvb.com" site_id="A" xmltv_id="WXC.HK">無綫財經資訊台</channel>
-<channel update="i" site="tvb.com" site_id="P" xmltv_id="MZT.HK">明珠台</channel>
-<channel update="i" site="tvb.com" site_id="X" xmltv_id="XHP.HK">TVB 星河频道</channel>
-<channel update="i" site="viu.tv" site_id="99" xmltv_id="V99.HK">ViuTV</channel>
-<channel update="i" site="viu.tv" site_id="96" xmltv_id="V96.HK">ViuTVsix</channel>
-
-<channel site="tbc.net.tw" site_id="6" update="i" xmltv_id="WXY.TW">衛視電影台</channel>
-<channel site="tbc.net.tw" site_id="5" update="i" xmltv_id="MSW.TW">民視</channel>
-<channel site="tbc.net.tw" site_id="53" update="i" xmltv_id="MSX.TW">民視新聞台</channel>
-<channel site="tbc.net.tw" site_id="151" update="i" xmltv_id="MS1.TW">民視第一台</channel>
-<channel site="tbc.net.tw" site_id="152" update="i" xmltv_id="MST.TW">民視臺灣台</channel>
-<channel site="tbc.net.tw" site_id="7" update="i" xmltv_id="TSW.TW">台視</channel>
-<channel site="tbc.net.tw" site_id="155" update="i" xmltv_id="TSX.TW">台視新聞台</channel>
-<channel site="tbc.net.tw" site_id="36" update="i" xmltv_id="ZTZ.TW">中天綜合台</channel>
-<channel site="tbc.net.tw" site_id="39" update="i" xmltv_id="ZTL.TW">中天娛樂台</channel>
-<channel site="tbc.net.tw" site_id="52" update="i" xmltv_id="ZTX.TW">中天新聞台</channel>
-<channel site="tbc.net.tw" site_id="9" update="i" xmltv_id="ZSW.TW">中視</channel>
-<channel site="tbc.net.tw" site_id="154" update="i" xmltv_id="ZSX.TW">中視新聞台</channel>
-<channel site="tbc.net.tw" site_id="11" update="i" xmltv_id="HSW.TW">華視</channel>
-<channel site="tbc.net.tw" site_id="14" update="i" xmltv_id="GS2.TW">公視台語台</channel>
-<channel site="tbc.net.tw" site_id="121" update="i" xmltv_id="GS3.TW">公視3台</channel>
-<channel site="tbc.net.tw" site_id="10" update="i" xmltv_id="DA1.TW">大愛1台</channel>
-<channel site="tbc.net.tw" site_id="132" update="i" xmltv_id="DA2.TW">大愛2台</channel>
-<channel site="tbc.net.tw" site_id="55" update="i" xmltv_id="TBX.TW">TVBS新聞台</channel>
-<channel site="tbc.net.tw" site_id="42" update="i" xmltv_id="TBL.TW">TVBS歡樂台</channel>
-<channel site="tbc.net.tw" site_id="51" update="i" xmltv_id="DLX.TW">東森新聞台</channel>
-<channel site="tbc.net.tw" site_id="57" update="i" xmltv_id="DLC.TW">東森財經新聞台</channel>
-<channel site="tbc.net.tw" site_id="62" update="i" xmltv_id="DLP.TW">東森洋片台</channel>	
-<channel site="tbc.net.tw" site_id="66" update="i" xmltv_id="DLY.TW">東森電影台</channel>	
-<channel site="tbc.net.tw" site_id="25" update="i" xmltv_id="DYY.TW">東森幼幼台</channel>
-<channel site="tbc.net.tw" site_id="40" update="i" xmltv_id="DXQ.TW">東森戲劇台</channel>
-<channel site="tbc.net.tw" site_id="54" update="i" xmltv_id="SLX.TW">三立新聞台</channel>
-<channel site="tbc.net.tw" site_id="90" update="i" xmltv_id="SLC.TW">三立財經新聞台</channel>
-<channel site="tbc.net.tw" site_id="29" update="i" xmltv_id="SLT.TW">三立台灣台</channel>
-<channel site="tbc.net.tw" site_id="30" update="i" xmltv_id="SLD.TW">三立都會台</channel>
-<channel site="tbc.net.tw" site_id="28" update="i" xmltv_id="BDZ.TW">八大綜合台</channel>
-<channel site="tbc.net.tw" site_id="41" update="i" xmltv_id="BDX.TW">八大戲劇台</channel>
-<channel site="tbc.net.tw" site_id="37" update="i" xmltv_id="DFW.TW">東風衛視</channel>
-<channel site="tbc.net.tw" site_id="64" update="i" xmltv_id="LST.TW">龍祥時代</channel>
-<channel site="tbc.net.tw" site_id="119" update="i" xmltv_id="DLD.TW">大立電視台</channel>
-<channel site="tbc.net.tw" site_id="103" update="i" xmltv_id="HZW.TW">華藏衛視</channel>
-<channel site="tbc.net.tw" site_id="82" update="i" xmltv_id="JXD.TW">信吉電視台</channel>	
-<channel site="tbc.net.tw" site_id="12" update="i" xmltv_id="RJW.TW">人間衛視</channel>
-<channel site="tbc.net.tw" site_id="130" update="i" xmltv_id="WXD.TW">唯心電視台</channel>
-
-<channel update="i" site="SK B Korea" site_id="872" xmltv_id="tvN.KR">tvN</channel>
-<channel update="i" site="SK B Korea" site_id="431" xmltv_id="OLI.KR">Olive</channel>
-<channel update="i" site="SK B Korea" site_id="240" xmltv_id="JB1.KR">JTBC</channel>
-<channel update="i" site="SK B Korea" site_id="436" xmltv_id="JBS.KR">JTBC Golf Sports</channel>
-<channel update="i" site="SK B Korea" site_id="127" xmltv_id="JBG.KR">JTBC Golf</channel>
-<channel update="i" site="SK B Korea" site_id="11" xmltv_id="KS1.KR">KBS1</channel>
-<channel update="i" site="SK B Korea" site_id="12" xmltv_id="KS2.KR">KBS2</channel>
-<channel update="i" site="SK B Korea" site_id="14" xmltv_id="SBS.KR">SBS</channel>
-<channel update="i" site="SK B Korea" site_id="625" xmltv_id="SBC.KR">SBS CNBC</channel>	
-<channel update="i" site="SK B Korea" site_id="883" xmltv_id="SBM.KR">SBS MTV</channel>
-<channel update="i" site="SK B Korea" site_id="873" xmltv_id="MNE.KR">M-NET</channel>
-<channel update="i" site="SK B Korea" site_id="13" xmltv_id="MBC.KR">MBC</channel>
-<channel update="i" site="SK B Korea" site_id="570" xmltv_id="YTN.KR">YTN</channel>
-<channel update="i" site="SK B Korea" site_id="422" xmltv_id="YTS.KR">YTN Science</channel>
-<channel update="i" site="SK B Korea" site_id="178" xmltv_id="OCN.KR">OCN</channel>
-
-<channel update="i" site="tvguide.myjcom.jp" site_id="120_038_65406" xmltv_id="NHW.JP">NHK World</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1024_32736" xmltv_id="NHG.JP">NHK総合</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1032_32737" xmltv_id="NHE.JP">NHK Eテレ</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_101_4" xmltv_id="BS1.JP">NHK BS 1</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_103_4" xmltv_id="BSP.JP">NHK BSプレミアム</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1048_32739" xmltv_id="TBS.JP">TBS</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1064_32741" xmltv_id="ASH.JP">テレビ朝日</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1040_32738" xmltv_id="NIP.JP">日本テレビ</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="120_564_65406" xmltv_id="N24.JP">日テレNEWS24</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1056_32740" xmltv_id="FUJ.JP">フジテレビ</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="2_1072_32742" xmltv_id="TOK.JP">テレビ東京</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_161_11" xmltv_id="BST.JP">BS TBS</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_171_4" xmltv_id="BTK.JP">BS 東京</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_181_4" xmltv_id="BSF.JP">BSフジ</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_141_4" xmltv_id="BSN.JP">BS 日テレ</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="3_151_4" xmltv_id="BSA.JP">BS 朝日</channel>
-<channel update="i" site="tvguide.myjcom.jp" site_id="120_536_65406" xmltv_id="WOW.JP">シネフィルWOWOW</channel>
-
-<channel update="i" site="tv.mail.ru" site_id="1271" xmltv_id="RS1.RU">Россия 1</channel>
-<channel update="i" site="tv.mail.ru" site_id="1112" xmltv_id="CTC.RU">СТС</channel>
-<channel update="i" site="tv.mail.ru" site_id="850" xmltv_id="1RU.RU">Первый</channel>
-<channel update="i" site="vsetv.com" site_id="328" xmltv_id="R24.RU">Россия 24</channel>
-<channel update="i" site="vsetv.com" site_id="14" xmltv_id="ТНТ.RU">ТНТ</channel>	
-<channel update="i" site="vsetv.com" site_id="13" xmltv_id="PEH.RU">РЕН</channel>
-<channel update="i" site="vsetv.com" site_id="1077" xmltv_id="MAT.RU">Матч!</channel>
-<channel update="i" site="vsetv.com" site_id="1397" xmltv_id="1UA.UA">UA:Перший</channel>
