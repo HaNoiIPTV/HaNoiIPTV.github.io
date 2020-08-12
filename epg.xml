@@ -1,22 +1,5 @@
-<?xml version="1.0"?>
-<settings>
-
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-
-  <filename>guide.xml</filename>
-  <mode></mode>
-  <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
-  <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>3</timespan>
-  <update>f</update>
-
-  <!--
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
 
 <channel update="i" site="vtv.vn" site_id="1" xmltv_id="VT1.VN">VTV1 HD</channel>
 <channel update="i" site="vtv.vn" site_id="2" xmltv_id="VT2.VN">VTV2 HD</channel>
