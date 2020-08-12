@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-
-<channel update="i" site="vtv.vn" site_id="1" xmltv_id="VT1.VN">VTV1 HD</channel>
-<channel update="i" site="vtv.vn" site_id="2" xmltv_id="VT2.VN">VTV2 HD</channel>
-<channel update="i" site="vtv.vn" site_id="3" xmltv_id="VT3.VN">VTV3 HD</channel>
-<channel update="i" site="vtv.vn" site_id="4" xmltv_id="VT4.VN">VTV4 HD</channel>
-<channel update="i" site="vtv.vn" site_id="5" xmltv_id="VT5.VN">VTV5 HD</channel>
-<channel update="i" site="vtv.vn" site_id="8" xmltv_id="VT6.VN">VTV6 HD</channel>
-<channel update="i" site="vtv.vn" site_id="9" xmltv_id="VT7.VN">VTV7 HD</channel>
-<channel update="i" site="vtv.vn" site_id="10" xmltv_id="VT8.VN">VTV8 HD</channel>
-<channel update="i" site="vtv.vn" site_id="11" xmltv_id="VT9.VN">VTV9 HD</channel>
-
 <channel id="KAI.HK">
 <display-name lang="zh">香港開電視</display-name>
 <url>http://www.epg.i-cable.com</url>
