@@ -11,6 +11,2456 @@
 <channel update="i" site="vtv.vn" site_id="10" xmltv_id="VT8.VN">VTV8 HD</channel>
 <channel update="i" site="vtv.vn" site_id="11" xmltv_id="VT9.VN">VTV9 HD</channel>
 
+<channel id="KAI.HK">
+<display-name lang="zh">香港開電視</display-name>
+<url>http://www.epg.i-cable.com</url>
+</channel>
+  <channel id="YCJ.HK">
+    <display-name lang="zh">有線财经资讯</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="YXW.HK">
+    <display-name lang="zh">有線新闻</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="YZB.HK">
+    <display-name lang="zh">直播新聞</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="FHJ.CN">
+    <display-name lang="zh">凤凰资讯台</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="YYL.HK">
+    <display-name lang="zh">有線综合娱乐</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="FHX.CN">
+    <display-name lang="zh">鳳凰衛視香港台</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="JJW.CN">
+    <display-name lang="zh">广东珠江</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="SZW.HK">
+    <display-name lang="zh">深圳電視台</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="618.HK">
+    <display-name lang="zh">有線18台</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="668.HK">
+    <display-name lang="zh">赛马直击</display-name>
+    <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="UNT.PH">
+    <display-name lang="en">UNTV Public</display-name>
+    <url>http://www.untv.com</url>
+  </channel>
+  <channel id="NBA.US">
+    <display-name lang="en">NBA TV</display-name>
+    <icon src="http://cdn.nba.net/assets/nbatv/logo/NBA_TV_061417_HORIZ.svg" />
+    <url>http://www.nba.com</url>
+  </channel>
+  <channel id="AFR.News">
+    <display-name lang="en">Africa News</display-name>
+    <url>http://www.dstv.com</url>
+  </channel>
+  <channel id="RPC.PA">
+    <display-name lang="en">RPC Canal 4</display-name>
+    <url>http://www.go.cableonda.com</url>
+  </channel>
+  <channel id="TVP.PE">
+    <display-name lang="en">TV Perú</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="STP.IN">
+    <display-name lang="en">STAR Plus</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="COL.IN">
+    <display-name lang="en">COLORS</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="STG.IN">
+    <display-name lang="en">STAR Gold</display-name>
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ZZC.IN">
+    <display-name lang="en">Zee Cinema</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Kal.IN">
+    <display-name lang="en">Kalaignar TV</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="RT.News">
+    <display-name lang="en">Russia Today</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/151_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="TV5.Asia">
+    <display-name lang="en">TV5 Monde Asie</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Dwe.News">
+    <display-name lang="en">DW (Deutsch)</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="STB.IN">
+    <display-name lang="en">Star Bharat</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/160_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="N27.IN">
+    <display-name lang="en">NDTV 24x7</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/162_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FS1.Asia">
+    <display-name lang="en">FOX SPORTS</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/208_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FS2.Asia">
+    <display-name lang="en">FOX SPORTS 2</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/209_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FS3.Asia">
+    <display-name lang="en">FOX SPORTS 3</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_Channels2/210_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FXC.Asia">
+    <display-name lang="en">FOXCRIME HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/503_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BF1.Asia">
+    <display-name lang="en">BabyFirst TV</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/301_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CIA.MY">
+    <display-name lang="en">Crime + Investigation HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BBE.Asia">
+    <display-name lang="en">BBC Earth</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="NGO.US">
+    <display-name lang="en">National Geographic HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/411_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Peo.US">
+    <display-name lang="en">People TV</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FXL.Asia">
+    <display-name lang="en">FOX Life</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/501_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Fox.Asia">
+    <display-name lang="en">FOX HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/505_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BAX.Asia">
+    <display-name lang="en">Blue Ant Extreme HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/508_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="BAE.Asia">
+    <display-name lang="en">Blue Ant Entertainment HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Bbw.News">
+    <display-name lang="en">BBC World News</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="AXN.Int">
+    <display-name lang="en">AXN</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ACV.IN">
+    <display-name lang="en">Asianet</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Ani.Asia">
+    <display-name lang="en">Animax</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Blo.News">
+    <display-name lang="en">Bloomberg Television HD</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CNN.News">
+    <display-name lang="en">CNN</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CGN.News">
+    <display-name lang="en">CGTN</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CNX.Asia">
+    <display-name lang="en">Cinemax</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CIN.Asia">
+    <display-name lang="en">CinemaWorld</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/613_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FXM.Asia">
+    <display-name lang="en">FOX Movies</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/622_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FFM.Asia">
+    <display-name lang="en">FOX Family Movies</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/624_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="FXX.Asia">
+    <display-name lang="en">FX</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/507_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Fox.News">
+    <display-name lang="en">Fox News Channel</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Fig.Int">
+    <display-name lang="en">Fight Sports</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/212_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="Sky.News">
+    <display-name lang="en">Sky News</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="NGP.US">
+    <display-name lang="en">National Geographic People</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/412_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="NGW.US">
+    <display-name lang="en">National Geographic Wild</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/413_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="HIS.IN">
+    <display-name lang="en">History Channel</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="GEM.JP">
+    <display-name lang="en">GEM</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="KBS.Int">
+    <display-name lang="en">KBS World</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ONE.KR">
+    <display-name lang="en">ONE</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="SMI.US">
+    <display-name lang="en">Smithsonian Channel</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/415_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="LIF.US">
+    <display-name lang="en">Lifetime</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="ETV.IN">
+    <display-name lang="en">Sony Entertainment Television</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com</url>
+  </channel>
+  <channel id="CHV.Asia">
+    <display-name lang="en">Channel [V]</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch352.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="DIS.US">
+    <display-name lang="en">Discovery</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch202.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="CGD.News">
+    <display-name lang="en">CGTN Documentary</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch211.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="DIS.Asia">
+    <display-name lang="en">Discovery Asia</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch204.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="NTI.IN">
+    <display-name lang="en">NDTV India</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch679.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="OUT.US">
+    <display-name lang="en">Outdoor Channel</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch17.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="XKW.CN">
+    <display-name lang="en">Xing Kong</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch516.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="TLC.IN">
+    <display-name lang="en">TLC</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch254.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="HGT.US">
+    <display-name lang="en">HGTV</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch250.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="HIT.MY">
+    <display-name lang="en">HITS</display-name>
+    <icon src="http://singteltv.com.sg/_channels/ico_ch326.gif" />
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Sky.AU">
+    <display-name lang="en">Australia Channel</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SKY/NHD_425x243.png" />
+    <url>http://www.foxtel.com</url>
+  </channel>
+  <channel id="FSN.AU">
+    <display-name lang="en">Fox Sports News</display-name>
+    <url>http://www.foxtel.com</url>
+  </channel>
+  <channel id="RAC.AU">
+    <display-name lang="en">Racing.com</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RTV/RTV_425x243.png" />
+    <url>http://www.foxtel.com</url>
+  </channel>
+  <channel id="SK1.AU">
+    <display-name lang="en">Sky Racing</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRA/SRA_425x243.png" />
+    <url>http://www.foxtel.com</url>
+  </channel>
+  <channel id="SK2.AU">
+    <display-name lang="en">Sky Racing 2</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SR2/SR2_425x243.png" />
+    <url>http://www.foxtel.com</url>
+  </channel>
+  <channel id="STC.AU">
+    <display-name lang="en">Sky Thoroughbred Central</display-name>
+    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRW_425x243.png" />
+    <url>http://www.foxtel.com</url>
+  </channel>
+  <channel id="SBM.AU">
+    <display-name lang="en">SBS World Movies</display-name>
+    <url>http://www.freeview.com.au</url>
+  </channel>
+  <channel id="10B.AU">
+    <display-name lang="en">10 Bold</display-name>
+    <url>http://www.freeview.com.au</url>
+  </channel>
+  <channel id="BNE.QA">
+    <display-name lang="en">beIN Sports News</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018|https://epg.beinsports.com/mena_sports/News_ar.svg?2018|https://epg.beinsports.com/mena_sports/News_ar.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B01.QA">
+    <display-name lang="en">beIN Sports 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD1.svg?2017|https://epg.beinsports.com/mena_sports/HD1.svg?2017|https://epg.beinsports.com/mena_sports/HD1.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B02.QA">
+    <display-name lang="en">beIN Sports 2</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD2.svg?2017|https://epg.beinsports.com/mena_sports/HD2.svg?2017|https://epg.beinsports.com/mena_sports/HD2.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B03.QA">
+    <display-name lang="en">beIN Sports 3</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD3.svg?2017|https://epg.beinsports.com/mena_sports/HD3.svg?2017|https://epg.beinsports.com/mena_sports/HD3.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B04.QA">
+    <display-name lang="en">beIN Sports 4</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD4.svg?2017|https://epg.beinsports.com/mena_sports/HD4.svg?2017|https://epg.beinsports.com/mena_sports/HD4.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B05.QA">
+    <display-name lang="en">beINSports</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD5.svg?2017|https://epg.beinsports.com/mena_sports/HD5.svg?2017|https://epg.beinsports.com/mena_sports/HD5.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B06.QA">
+    <display-name lang="en">beIN Sports 6</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD6.svg?2017|https://epg.beinsports.com/mena_sports/HD6.svg?2017|https://epg.beinsports.com/mena_sports/HD6.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B07.QA">
+    <display-name lang="en">beIN Sports 7</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD7.svg?2017|https://epg.beinsports.com/mena_sports/HD7.svg?2017|https://epg.beinsports.com/mena_sports/HD7.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B08.QA">
+    <display-name lang="en">beIN Sports 8</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD8.svg?2017|https://epg.beinsports.com/mena_sports/HD8.svg?2017|https://epg.beinsports.com/mena_sports/HD8.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B09.QA">
+    <display-name lang="en">beIN Sports 9</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B10.QA">
+    <display-name lang="en">beIN Sports 10</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B11.QA">
+    <display-name lang="en">beIN Sports 11</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B12.QA">
+    <display-name lang="en">beIN Sports 12</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B13.QA">
+    <display-name lang="en">beIN Sports 13</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BUS.US">
+    <display-name lang="en">beIN Sports USA</display-name>
+    <icon src="https://epg.beinsports.com/us_sports/Global.svg|https://epg.beinsports.com/us_sports/Global.svg|https://epg.beinsports.com/us_sports/Global.svg|https://epg.beinsports.com/us_sports/Global.svg|https://epg.beinsports.com/us_sports/Global.svg|https://epg.beinsports.com/us_sports/Global.svg|https://epg.beinsports.com/us_sports/Global.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BEN.Int">
+    <display-name lang="en">Bein Sports Ñ</display-name>
+    <icon src="https://epg.beinsports.com/us_sports/Spanish.svg|https://epg.beinsports.com/us_sports/Spanish.svg|https://epg.beinsports.com/us_sports/Spanish.svg|https://epg.beinsports.com/us_sports/Spanish.svg|https://epg.beinsports.com/us_sports/Spanish.svg|https://epg.beinsports.com/us_sports/Spanish.svg|https://epg.beinsports.com/us_sports/Spanish.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BSL.Int">
+    <display-name lang="en">Bein Sports La Liga</display-name>
+    <icon src="https://epg.beinsports.com/us_sports/liga.svg|https://epg.beinsports.com/us_sports/liga.svg|https://epg.beinsports.com/us_sports/liga.svg|https://epg.beinsports.com/us_sports/liga.svg|https://epg.beinsports.com/us_sports/liga.svg|https://epg.beinsports.com/us_sports/liga.svg|https://epg.beinsports.com/us_sports/liga.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BXT.US">
+    <display-name lang="en">beIN Sports Xtra</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="BS4.US">
+    <display-name lang="en">Bein 4 USA</display-name>
+    <icon src="https://epg.beinsports.com/us_sports/BS4.svg|https://epg.beinsports.com/us_sports/BS4.svg|https://epg.beinsports.com/us_sports/BS4.svg|https://epg.beinsports.com/us_sports/BS4.svg|https://epg.beinsports.com/us_sports/BS4.svg|https://epg.beinsports.com/us_sports/BS4.svg|https://epg.beinsports.com/us_sports/BS4.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="Ch5.SG">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Ch8.SG">
+    <display-name lang="en">8频道</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="ChU.SG">
+    <display-name lang="en">U频道</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Vas.SG">
+    <display-name lang="en">Vasantham</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Sur.SG">
+    <display-name lang="en">Suria</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Cna.SG">
+    <display-name lang="en">Channel NewsAsia</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Hbo.Asia">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Hbh.Asia">
+    <display-name lang="en">HBO Hits</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Hbf.Asia">
+    <display-name lang="en">HBO Family</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Hbs.Asia">
+    <display-name lang="en">HBO Signature</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Cin.Asia">
+    <display-name lang="en">Cinemax</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Red.Asia">
+    <display-name lang="en">Red by HBO</display-name>
+    <url>http://www.mewatch.sg</url>
+  </channel>
+  <channel id="Jaz.News">
+    <display-name lang="en">Al Jazeera</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Awa.MY">
+    <display-name lang="en">Astro Awani</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Cer.MY">
+    <display-name lang="en">Astro Awani</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nau.MY">
+    <display-name lang="en">Astro Naura</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Ria.MY">
+    <display-name lang="en">Astro RIA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="War.MY">
+    <display-name lang="en">Astro Warna</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AFN.MY">
+    <display-name lang="en">Asian Food Network</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ANI.US">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ART.SA">
+    <display-name lang="en">ART Variety</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Ber.MY">
+    <display-name lang="en">Bernama</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="8TV.MY">
+    <display-name lang="en">八度空间</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DIS.MY">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Egg.MY">
+    <display-name lang="en">eGG Network</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Fra.News">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GOF.Int">
+    <display-name lang="en">Golf Channel</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Hel.MY">
+    <display-name lang="en">Hello</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HIM.MY">
+    <display-name lang="en">HITS Movies</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Kix.Asia">
+    <display-name lang="en">Kix</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV7.MY">
+    <display-name lang="en">NTV 7</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Oky.MY">
+    <display-name lang="en">OKEY</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV1.MY">
+    <display-name lang="en">RTM TV1</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV2.MY">
+    <display-name lang="en">RTM TV2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="STV.MY">
+    <display-name lang="en">Star Vijay</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV3.MY">
+    <display-name lang="en">TV 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV9.MY">
+    <display-name lang="en">TV 9</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GTV.ID">
+    <display-name lang="id">GTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/global.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="ANT.ID">
+    <display-name lang="id">ANTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/antv.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="BST.ID">
+    <display-name lang="id">Berita Satu</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/berita_satu.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="IND.ID">
+    <display-name lang="id">Indosiar</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/indosiar.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="JAK.ID">
+    <display-name lang="id">JakTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/jaktv.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="MNC.ID">
+    <display-name lang="id">MNC</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/mnc.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="RCT.ID">
+    <display-name lang="id">RCTI</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/rcti.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="SCT.ID">
+    <display-name lang="id">SCTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/sctv.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="TVR.ID">
+    <display-name lang="id">TVRI</display-name>
+    <icon src="http://www.transvision.co.id/img/channel/tvri_new.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="TRA.ID">
+    <display-name lang="id">Trans TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/trans.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="TR7.ID">
+    <display-name lang="id">Trans 7</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/trans7.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="MET.ID">
+    <display-name lang="id">Metro</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/metro.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="MAK.SA">
+    <display-name lang="id">Makkah TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/al_kareem.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="DAV.Asia">
+    <display-name lang="id">Da Vinci Learning</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/da_vinci.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="CNN.ID">
+    <display-name lang="id">CNN Indonesia</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/cnn_ind_bg.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="KOM.ID">
+    <display-name lang="id">Kompas TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/kompas.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="RTV.ID">
+    <display-name lang="id">RTV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/rajawali.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="ZBI.ID">
+    <display-name lang="id">Zee Bioskop</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/zee.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="DSJ.ID">
+    <display-name lang="id">Disney Junior</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/disney_jr.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="DAA.ID">
+    <display-name lang="id">DAAI TV</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/daai.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="TV1.ID">
+    <display-name lang="id">tvOne</display-name>
+    <icon src="http://www.transvision.co.id/images/channel/tv_one.png" />
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <channel id="NET.ID">
+    <display-name lang="en">NET</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JTV.ID">
+    <display-name lang="en">JTV</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/channel_jtv.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="HII.ID">
+    <display-name lang="en">Hi! Indo</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="JAG.ID">
+    <display-name lang="en">Jakarta Globe</display-name>
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="FTV.Int">
+    <display-name lang="en">Fashion TV</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/selection/fashiontv.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="OCH.ID">
+    <display-name lang="en">O CHANNEL</display-name>
+    <icon src="https://www.firstmedia.com/files/packages/tvlokal/ochannel.jpg" />
+    <url>http://www.firstmedia.com</url>
+  </channel>
+  <channel id="TV3.TH">
+    <display-name lang="en">ดูทีวีสีช่อง 3</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_3HD.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="TV7.TH">
+    <display-name lang="en">ช่อง 7</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_7HD.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="TV8.TH">
+    <display-name lang="en">ช่อง 8</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_CH8.png" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="T31.TH">
+    <display-name lang="en">ONE 31</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_ONE.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="PPT.TH">
+    <display-name lang="en">PPTV</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_PPTV.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="TRA.TH">
+    <display-name lang="en">ไทยรัฐ TV</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_TRATH.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="TS2.TH">
+    <display-name lang="en">True Sport 2</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_123.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="WPT.TH">
+    <display-name lang="en">Workpoint</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_WORKP.jpg" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="MON.TH">
+    <display-name lang="en">MONO 29</display-name>
+    <icon src="http://tvsmagazine.com/images/channels/sm_MONO.png" />
+    <url>http://www.tvsmagazine.com</url>
+  </channel>
+  <channel id="TV5.TH">
+    <display-name lang="th">ททบ. 5</display-name>
+    <url>http://www.dtvguide.nbtc.go.th</url>
+  </channel>
+  <channel id="TPB.TH">
+    <display-name lang="th">Thai PBS</display-name>
+    <url>http://www.dtvguide.nbtc.go.th</url>
+  </channel>
+  <channel id="MCO.TH">
+    <display-name lang="th">MCOT</display-name>
+    <url>http://www.dtvguide.nbtc.go.th</url>
+  </channel>
+  <channel id="VT4.VN">
+    <display-name lang="vi">VTV4</display-name>
+    <url>http://www.vtv.vn</url>
+  </channel>
+  <channel id="VT6.VN">
+    <display-name lang="vi">VTV6</display-name>
+    <url>http://www.vtv.vn</url>
+  </channel>
+  <channel id="Fli.IN">
+    <display-name lang="en">&amp;flix</display-name>
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="Pri.IN">
+    <display-name lang="en">&amp;Prive HD</display-name>
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="AAJ.IN">
+    <display-name lang="en">आज तक</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-aajtak/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="ZZB.IN">
+    <display-name lang="en">Zee বাংলা</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-zeebangla/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="THQ.IN">
+    <display-name lang="en">The Q India HD</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="ZIN.IN">
+    <display-name lang="en">Zing</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-channel_1643519345/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="CKT.IN">
+    <display-name lang="en">Chardikla Time TV</display-name>
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="BOB.IN">
+    <display-name lang="en">Boogle Bollywood</display-name>
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="MAK.IN">
+    <display-name lang="en">மக்கள் தொலைக்காட்சி</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-makkaltv/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="ZTV.IN">
+    <display-name lang="en">Zee TV</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/.png" />
+    <url>http://www.zee5.com</url>
+  </channel>
+  <channel id="Raj.IN">
+    <display-name lang="en">Raj TV</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="RAD.IN">
+    <display-name lang="en">Raj Digital Plus</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="THA.IN">
+    <display-name lang="en">Thanthi</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="JAI.IN">
+    <display-name lang="en">Jaihind TV</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="JAM.IN">
+    <display-name lang="en">Jaya Max</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="ABA.IN">
+    <display-name lang="en">ABP আনন্দ</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="SBA.IN">
+    <display-name lang="en">Sangeet বাংলা</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="STJ.IN">
+    <display-name lang="en">Star জলসা</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="B4M.IN">
+    <display-name lang="en">B4U Music</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="DDP.IN">
+    <display-name lang="en">DD Punjabi</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="DDM.IN">
+    <display-name lang="en">DD Malayalam</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="JAM.BD">
+    <display-name lang="en">Jalsha Movies</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="COL.BD">
+    <display-name lang="en">Colors Bangla</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="FLO.IN">
+    <display-name lang="en">Flowers</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="KAM.IN">
+    <display-name lang="en">Kaumudy</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="KAP.IN">
+    <display-name lang="en">Kappa TV</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="KAR.IN">
+    <display-name lang="en">Kairali</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="MAZ.IN">
+    <display-name lang="en">Mazhavil Manorama</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="DIS.ID">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="COM.IN">
+    <display-name lang="en">Comedy Central</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="NIC.IN">
+    <display-name lang="en">Nick Junior</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="ASN.IN">
+    <display-name lang="en">Asianet News</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="ASP.IN">
+    <display-name lang="en">Asianet Plus</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="SAB.IN">
+    <display-name lang="en">Sony SAB</display-name>
+    <url>http://www.india</url>
+  </channel>
+  <channel id="HUN.IN">
+    <display-name lang="en">Hungama</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11477-j9jr9a8o-v1/imageContent-11477-j9jr9a8o-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MSE.IN">
+    <display-name lang="en">MalaiMurasu Seithigal</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11567-j9jv3gs0-v1/imageContent-11567-j9jv3gs0-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="SV2.IN">
+    <display-name lang="en">SVBC2</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11880-j9l3qcrs-v1/imageContent-11880-j9l3qcrs-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MON.IN">
+    <display-name lang="en">Moon TV</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12096-j9oom4eo-v1/imageContent-12096-j9oom4eo-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="BAL.IN">
+    <display-name lang="en">Balle Balle</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48861-k4nm3na0-v1/imageContent-48861-k4nm3na0-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MHN.IN">
+    <display-name lang="en">MH1 Prime</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11588-j9jywek8-v1/imageContent-11588-j9jywek8-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="MH1.IN">
+    <display-name lang="en">MH One</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11584-j9jyt26w-v1/imageContent-11584-j9jyt26w-m1.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="RON.ID">
+    <display-name lang="en">Romedy Now</display-name>
+    <icon src="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-749-j5l5kb9k-v3/imageContent-749-j5l5kb9k-m3.jpg" />
+    <url>http://www.tatasky.com</url>
+  </channel>
+  <channel id="FHW.CN">
+    <display-name lang="en">鳳凰衛視中文台</display-name>
+    <icon src="http://epg.cms.now-tv.com/iphone/channelLogo/ch548.png" />
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="AYW.MO">
+    <display-name lang="en">澳亞衛視</display-name>
+    <icon src="http://epg.cms.now-tv.com/iphone/channelLogo/ch544.png" />
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="NFW.CN">
+    <display-name lang="en">南方卫视</display-name>
+    <icon src="http://epg.cms.now-tv.com/iphone/channelLogo/ch543.png" />
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="FCT.HK">
+    <display-name lang="zh">翡翠台</display-name>
+    <url>http://www.tvb.com</url>
+  </channel>
+  <channel id="FC2.HK">
+    <display-name lang="zh">翡翠J2台</display-name>
+    <url>http://www.tvb.com</url>
+  </channel>
+  <channel id="WXX.HK">
+    <display-name lang="zh">無綫新聞台</display-name>
+    <url>http://www.tvb.com</url>
+  </channel>
+  <channel id="WXC.HK">
+    <display-name lang="zh">無綫財經資訊台</display-name>
+    <url>http://www.tvb.com</url>
+  </channel>
+  <channel id="MZT.HK">
+    <display-name lang="zh">TVB Pearl(明珠台)</display-name>
+    <url>http://www.tvb.com</url>
+  </channel>
+  <channel id="XHP.HK">
+    <display-name lang="zh">TVB 星河频道</display-name>
+    <url>http://www.tvb.com</url>
+  </channel>
+  <channel id="V96.HK">
+    <display-name lang="zh">ViuTV96台</display-name>
+    <url>http://www.viu.tv</url>
+  </channel>
+  <channel id="V99.HK">
+    <display-name lang="zh">ViuTV99台</display-name>
+    <url>http://www.viu.tv</url>
+  </channel>
+  <channel id="AHW.CN">
+    <display-name lang="zh">安徽卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="DFW.CN">
+    <display-name lang="zh">东方卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="GDW.CN">
+    <display-name lang="zh">广东卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="JSW.CN">
+    <display-name lang="zh">江苏卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="ZJW.CN">
+    <display-name lang="zh">浙江卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="HNW.CN">
+    <display-name lang="zh">湖南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C4K.CN">
+    <display-name lang="zh">CCTV-4K 超高清</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT1.CN">
+    <display-name lang="zh">CCTV-1 综合</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT2.CN">
+    <display-name lang="zh">CCTV-2 财经</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT3.CN">
+    <display-name lang="zh">CCTV-3 文艺</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT4.CN">
+    <display-name lang="zh">CCTV-4 中文国际</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT5.CN">
+    <display-name lang="zh">CCTV-5 体育</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C5P.CN">
+    <display-name lang="zh">CCTV-5+ 体育赛事</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT6.CN">
+    <display-name lang="zh">CCTV-6 电影</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT7.CN">
+    <display-name lang="zh">CCTV-7 军事</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT8.CN">
+    <display-name lang="zh">CCTV-8 电视剧</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CT9.CN">
+    <display-name lang="zh">CCTV-9 纪录</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C10.CN">
+    <display-name lang="zh">CCTV-10 科教</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C11.CN">
+    <display-name lang="zh">CCTV-11 戏曲</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C12.CN">
+    <display-name lang="zh">CCTV-12 社会与法</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C13.CN">
+    <display-name lang="zh">CCTV-13 新闻</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C14.CN">
+    <display-name lang="zh">CCTV-14 少儿</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C15.CN">
+    <display-name lang="zh">CCTV-15 音乐</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="C17.CN">
+    <display-name lang="zh">CCTV-17 农业农村</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="BTV.CN">
+    <display-name lang="zh">北京卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="BTW.CN">
+    <display-name lang="zh">兵团卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="CQW.CN">
+    <display-name lang="zh">重庆卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="DFN.CN">
+    <display-name lang="zh">东南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="GXW.CN">
+    <display-name lang="zh">广西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="GSW.CN">
+    <display-name lang="zh">甘肃卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="GZW.CN">
+    <display-name lang="zh">贵州卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="HBW.CN">
+    <display-name lang="zh">河北卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="HNX.CN">
+    <display-name lang="zh">河南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="HLJ.CN">
+    <display-name lang="zh">黑龙江卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="HUB.CN">
+    <display-name lang="zh">湖北卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="JLW.CN">
+    <display-name lang="zh">吉林卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="JXW.CN">
+    <display-name lang="zh">江西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="LNW.CN">
+    <display-name lang="zh">辽宁卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="HAI.CN">
+    <display-name lang="zh">海南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="NNN.CN">
+    <display-name lang="zh">内蒙古卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="NXW.CN">
+    <display-name lang="zh">宁夏卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="QHW.CN">
+    <display-name lang="zh">青海卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="SDW.CN">
+    <display-name lang="zh">山东卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="SZW.CN">
+    <display-name lang="zh">深圳卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="SXW.CN">
+    <display-name lang="zh">山西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="SXS.CN">
+    <display-name lang="zh">陕西卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="SIC.CN">
+    <display-name lang="zh">四川卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="TJW.CN">
+    <display-name lang="zh">天津卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="XZW.CN">
+    <display-name lang="zh">西藏卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="XMW.CN">
+    <display-name lang="zh">厦门卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="XJW.CN">
+    <display-name lang="zh">新疆卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="YNW.CN">
+    <display-name lang="zh">云南卫视</display-name>
+    <url>http://www.tv.cntv.cn</url>
+  </channel>
+  <channel id="MSW.TW">
+    <display-name lang="zh">民視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="MSX.TW">
+    <display-name lang="zh">民視新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="MS1.TW">
+    <display-name lang="zh">民視第一</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="MST.TW">
+    <display-name lang="zh">民視臺灣</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="TSW.TW">
+    <display-name lang="zh">台視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="TSZ.TW">
+    <display-name lang="zh">台視綜合</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="TSX.TW">
+    <display-name lang="zh">台視新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="ZSW.TW">
+    <display-name lang="zh">中視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="HSW.TW">
+    <display-name lang="zh">華視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="ZSX.TW">
+    <display-name lang="zh">中視新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="ZTZ.TW">
+    <display-name lang="zh">中天綜合</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="ZTL.TW">
+    <display-name lang="zh">中天娛樂</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="YZM.TW">
+    <display-name lang="zh">原視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="HAK.TW">
+    <display-name lang="zh">客家電視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="ZTX.TW">
+    <display-name lang="zh">中天新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DA1.TW">
+    <display-name lang="zh">大愛1</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DA2.TW">
+    <display-name lang="zh">大愛2</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLZ.TW">
+    <display-name lang="zh">東森綜合</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLA.TW">
+    <display-name lang="zh">東森超視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLX.TW">
+    <display-name lang="zh">東森新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLC.TW">
+    <display-name lang="zh">東森財經新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLP.TW">
+    <display-name lang="zh">東森洋片</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLY.TW">
+    <display-name lang="zh">東森電影</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DYY.TW">
+    <display-name lang="zh">東森幼幼台</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="GS1.TW">
+    <display-name lang="zh">公視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="GS2.TW">
+    <display-name lang="zh">公視台語</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="GS3.TW">
+    <display-name lang="zh">公視3</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="SLX.TW">
+    <display-name lang="zh">三立新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="SLC.TW">
+    <display-name lang="zh">三立財經新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="SLT.TW">
+    <display-name lang="zh">三立台灣台</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="SLD.TW">
+    <display-name lang="zh">三立都會台</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="TBX.TW">
+    <display-name lang="zh">TVBS新聞</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="TBL.TW">
+    <display-name lang="zh">TVBS歡樂</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="DLD.TW">
+    <display-name lang="zh">大立電視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="HZW.TW">
+    <display-name lang="zh">華藏衛視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="JXD.TW">
+    <display-name lang="zh">信吉電視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="RJW.TW">
+    <display-name lang="zh">人間衛視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="WXD.TW">
+    <display-name lang="zh">唯心電視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="WXY.TW">
+    <display-name lang="zh">衛視電影</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="FSD.TW">
+    <display-name lang="zh">番薯電視</display-name>
+    <url>http://www.tbc.net.tw</url>
+  </channel>
+  <channel id="NHW.JP">
+    <display-name lang="ja">NHK World</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="NHG.JP">
+    <display-name lang="ja">NHK総合</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="NHE.JP">
+    <display-name lang="ja">NHK Eテレ</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BS1.JP">
+    <display-name lang="ja">NHK BS 1</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BSP.JP">
+    <display-name lang="ja">NHK BSプレミアム</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="TBS.JP">
+    <display-name lang="ja">TBS</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="ASH.JP">
+    <display-name lang="ja">テレビ朝日</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="NIP.JP">
+    <display-name lang="ja">日本テレビ</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="N24.JP">
+    <display-name lang="ja">日テレNEWS24</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="FUJ.JP">
+    <display-name lang="ja">フジテレビ</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="TOK.JP">
+    <display-name lang="ja">テレビ東京</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BST.JP">
+    <display-name lang="ja">BS TBS</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BTK.JP">
+    <display-name lang="ja">BS 東京</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BSF.JP">
+    <display-name lang="ja">BSフジ</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BSN.JP">
+    <display-name lang="ja">BS 日テレ</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="BSA.JP">
+    <display-name lang="ja">BS 朝日</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="WOW.JP">
+    <display-name lang="ja">シネフィルWOWOW</display-name>
+    <url>http://www.tvguide.myjcom.jp</url>
+  </channel>
+  <channel id="tvN.KR">
+    <display-name lang="ko">tvN</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="OLI.KR">
+    <display-name lang="ko">Olive</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="JB1.KR">
+    <display-name lang="ko">JTBC</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="JBS.KR">
+    <display-name lang="ko">JTBC Golf Sports</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="JBG.KR">
+    <display-name lang="ko">JTBC Golf</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="KS1.KR">
+    <display-name lang="ko">KBS 1</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="KS2.KR">
+    <display-name lang="ko">KBS 2</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="SBS.KR">
+    <display-name lang="ko">SBS</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="SBC.KR">
+    <display-name lang="ko">SBS CNBC</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="SBM.KR">
+    <display-name lang="ko">SBS MTV</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="MNE.KR">
+    <display-name lang="ko">M-NET</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="MBC.KR">
+    <display-name lang="ko">MBC</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="YTN.KR">
+    <display-name lang="ko">YTN</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="YTS.KR">
+    <display-name lang="ko">YTN Science</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="OCN.KR">
+    <display-name lang="ko">OCN</display-name>
+    <url>http://www.m.skbroadband.com</url>
+  </channel>
+  <channel id="A24.AU">
+    <display-name lang="en">ABC News 24</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="ABC.AU">
+    <display-name lang="en">ABC</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="AB2.AU">
+    <display-name lang="en">ABC Comedy</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="ABK.AU">
+    <display-name lang="en">ABC Kids</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="ABM.AU">
+    <display-name lang="en">ABC ME</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="ACC.AU">
+    <display-name lang="en">ACC</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="SB1.AU">
+    <display-name lang="en">SBS One</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="SBV.AU">
+    <display-name lang="en">SBS Viceland</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="SBF.AU">
+    <display-name lang="en">SBS Food</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="NIT.AU">
+    <display-name lang="en">NITV</display-name>
+    <url>http://www.oztivo.net</url>
+  </channel>
+  <channel id="TRE.NZ">
+    <display-name lang="en">Te Reo</display-name>
+    <url>http://www.www.freeviewnz.tv</url>
+  </channel>
+  <channel id="PRIME">
+    <display-name lang="en">Prime</display-name>
+    <url>http://www.www.freeviewnz.tv</url>
+  </channel>
+  <channel id="Māori Television">
+    <display-name lang="en">Maori Television</display-name>
+    <url>http://www.www.freeviewnz.tv</url>
+  </channel>
+  <channel id="LA1.ES">
+    <display-name lang="es">La 1</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/3.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="LA2.ES">
+    <display-name lang="es">La 2</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/4.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="24H.ES">
+    <display-name lang="es">24 Horas</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/8.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="ETO.ES">
+    <display-name lang="es">El Toro TV</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/516.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="TLS.News">
+    <display-name lang="es">Telesur</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/614.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="CUB.CU">
+    <display-name lang="es">Cubavisión Internacional</display-name>
+    <icon src="https://programacion-tv.elpais.com/imagenes/canales/567.jpg" />
+    <url>http://www.elpais.com</url>
+  </channel>
+  <channel id="DAS.DE">
+    <display-name lang="de">Das Erste</display-name>
+    <icon src="http://programm-manager.telekom.de/media/cf416cc96a575e40e35f43c05d829efdb176bc35.png" />
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL.DE">
+    <display-name lang="de">RTL</display-name>
+    <icon src="http://programm-manager.telekom.de/media/faa7d82f5d52540cf25ca62acd71479093bda977.png" />
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="T24.DE">
+    <display-name lang="de">tagesschau24</display-name>
+    <icon src="http://programm-manager.telekom.de/media/2d0ef79c908ad450db7ddc28eaf7076a02e162af.png" />
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="VOX.DE">
+    <display-name lang="de">Vox</display-name>
+    <icon src="http://programm-manager.telekom.de/media/0e5b4d41d518a068a0bef830d64f848b84ac39d1.png" />
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ONE.DE">
+    <display-name lang="de">ONE</display-name>
+    <icon src="http://programm-manager.telekom.de/media/70b3ed315768d8799f8577aad1003e4b2758b197.png" />
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="KIK.DE">
+    <display-name lang="de">KiKA</display-name>
+    <icon src="http://programm-manager.telekom.de/media/7d9a501ddc07382fcfdbb0c0797916ba4e78cacd.png" />
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RA1.IT">
+    <display-name lang="it">Rai 1</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="RA2.IT">
+    <display-name lang="it">Rai 2</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="RAY.IT">
+    <display-name lang="it">Rai YoYo</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="CA5.IT">
+    <display-name lang="it">Canale 5</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="FRB.IT">
+    <display-name lang="it">Frisbee</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="IT1.IT">
+    <display-name lang="it">Italia 1</display-name>
+    <url>http://www.laguidatv.it</url>
+  </channel>
+  <channel id="EEN.BE">
+    <display-name lang="nl">één</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/EEN.BE_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="CAV.BE">
+    <display-name lang="nl">Canvas</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/CAV.BE_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="FR2.FR">
+    <display-name lang="nl">France 2</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/FR2.FR_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="TF1.FR">
+    <display-name lang="nl">TF1</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/TF1.FR_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="FR3.FR">
+    <display-name lang="nl">France 3</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/FR3.FR_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="TMC.FR">
+    <display-name lang="nl">TMC</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/TMC.FR_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="BFM.FR">
+    <display-name lang="nl">BFM</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/BFM.FR_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="BVN.NL">
+    <display-name lang="nl">BVN</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/BVN.NL_w84.png" />
+    <url>http://www.livetv.tv-vlaanderen.be.E</url>
+  </channel>
+  <channel id="NPN.NL">
+    <display-name lang="nl">NPO Nieuws</display-name>
+    <icon src="https://m7be2.solocoo.tv/mmchan/channelicons/NPN.NL_w84.png" />
+    <url>http://www.canaldigitaal.nl.E</url>
+  </channel>
+  <channel id="RT3.PT">
+    <display-name lang="en">RTP3</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="TVI.PT">
+    <display-name lang="en">TVI</display-name>
+    <url>http://www.tudonumclick.com</url>
+  </channel>
+  <channel id="RS1.RU">
+    <display-name lang="ru">Россия 1</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CTC.RU">
+    <display-name lang="ru">СТС</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="1RU.RU">
+    <display-name lang="ru">Первый</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="R24.RU">
+    <display-name lang="ru">Россия 24</display-name>
+    <icon src="http://www.vsetv.com//pic/channel_logos/328.gif" />
+    <url>http://www.vsetv.com</url>
+  </channel>
+  <channel id="ТНТ.RU">
+    <display-name lang="ru">ТНТ</display-name>
+    <icon src="http://www.vsetv.com//pic/channel_logos/14.gif" />
+    <url>http://www.vsetv.com</url>
+  </channel>
+  <channel id="PEH.RU">
+    <display-name lang="ru">РЕН</display-name>
+    <icon src="http://www.vsetv.com//pic/channel_logos/13.gif" />
+    <url>http://www.vsetv.com</url>
+  </channel>
+  <channel id="MAT.RU">
+    <display-name lang="ru">Матч!</display-name>
+    <icon src="http://www.vsetv.com//pic/channel_logos/1077.gif" />
+    <url>http://www.vsetv.com</url>
+  </channel>
+  <channel id="INT.UA">
+    <display-name lang="ru">Iнтер</display-name>
+    <icon src="http://www.vsetv.com//pic/channel_logos/357.gif" />
+    <url>http://www.vsetv.com</url>
+  </channel>
+  <channel id="AN1.GR">
+    <display-name lang="el">ANT 1</display-name>
+    <url>http://www.cyta.com.cy</url>
+  </channel>
+  <channel id="HR1.HR">
+    <display-name lang="hu">HRT 1</display-name>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/images/tv-vodic/hrt-1-hd2/271283-2-cro-HR/HRT-1-HD.png" />
+    <url>http://www.tv.iskon.hr.EK</url>
+  </channel>
+  <channel id="TV1.RO">
+    <display-name lang="ro">TVR 1</display-name>
+    <icon src="https://static.cinemagia.ro/img/tv_station/tvr-1.jpg" />
+    <url>http://www.cinemagia.ro</url>
+  </channel>
+  <channel id="JOJ.SK">
+    <display-name lang="sk">Joj</display-name>
+    <icon src="https://files.cdn.magio.tv/tv_logos/joj.png" />
+    <url>http://www.telekom.sk</url>
+  </channel>
+  <channel id="LRT.LT">
+    <display-name lang="lt">LRT Lituanica</display-name>
+    <url>http://www.cgates.lt</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="et">ETV</display-name>
+    <icon src="https://cdn.tvstart.com/img/channel/logo_64_11_1445933963.png" />
+    <url>http://www.kava.ee</url>
+  </channel>
+  <channel id="NR1.NO">
+    <display-name lang="nb">NRK1</display-name>
+    <icon src="https://static.tvno.nu/12792" />
+    <url>http://www.tvguide.vg.no</url>
+  </channel>
+  <channel id="SV1.SE">
+    <display-name lang="nb">SVT1</display-name>
+    <icon src="https://static.tvno.nu/12821" />
+    <url>http://www.tvguide.vg.no</url>
+  </channel>
+  <channel id="DR1.DK">
+    <display-name lang="nb">DR1</display-name>
+    <icon src="https://static.tvno.nu/96609" />
+    <url>http://www.tvguide.vg.no</url>
+  </channel>
+  <channel id="CA6.CR">
+    <display-name lang="es">Repretel 6</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/6_de_costa_rica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="RPC.PY">
+    <display-name lang="es">Trece RPC</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/rpc_paraguay-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ONC.MX">
+    <display-name lang="es">Canal Once</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/once_tv_mexico-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="MUT.MX">
+    <display-name lang="es">Multimedios</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CV9.DO">
+    <display-name lang="es">Color Visión</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="PAN.PA">
+    <display-name lang="es">Panamericana</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ECU.EC">
+    <display-name lang="es">Ecuavisa</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TEL.AR">
+    <display-name lang="es">Canal Telefé</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TVB.BR">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="RTI.PT">
+    <display-name lang="pt">RTP Internacional</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="SBT.BR">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="http://www.tvplus.com.br/images/logos/DIS.png style=width: 40px; vertical-align: middle; float: left class=img-thumbnail mr-2&gt;&lt;/a&gt;&#xA;                            &lt;a a href=#empty data-toggle=modal data-target=#sinopse0000557126&gt;Isolados no Alasca&lt;/a&gt;&lt;/h4&gt;&#xA;      &lt;/div&gt;&#xA;      &#xA;      &#xA;&#xA;&#xA;                        &lt;div class=item single-cat&gt;&#xA;                            &lt;img src='/images/epg_224/0000640660_epg.jpg' style='width: 340px; height: 208px;' alt='' class='img-fluid d-flex  mr-3' /&gt;       &lt;p class=date&gt;&lt;span class=lnr lnr-clock&gt;&lt;/span&gt; 12h55&lt;/p&gt;&#xA;       &lt;h4&gt;&lt;a href=/canal-FOX-2020-08-11&gt; title=" />
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="ES1.BR">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="ES2.BR">
+    <display-name lang="pt">ESPN 2</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="ESB.BR">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="ESE.BR">
+    <display-name lang="pt">ESPN Extra</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="MBC.EG">
+    <display-name lang="ar">MBC Masr</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MB1.SA">
+    <display-name lang="ar">MBC 1</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MB4.SA">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBD.SA">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="MBC.IQ">
+    <display-name lang="ar">MBC Iraq</display-name>
+    <url>http://www.mbc.net</url>
+  </channel>
+  <channel id="AAA.AE">
+    <display-name lang="en">Al Aan</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/AAN.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="TR1.TR">
+    <display-name lang="tr">TRT 1</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TRC.TR">
+    <display-name lang="tr">TRT Çocuk</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="FOX.TR">
+    <display-name lang="tr">Fox Türkiye</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="KAN.TR">
+    <display-name lang="tr">Kanal D</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da806" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="SHW.TR">
+    <display-name lang="tr">Show TV</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da88e" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="STA.TR">
+    <display-name lang="tr">Star</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8be" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="ATV.TR">
+    <display-name lang="tr">ATV</display-name>
+    <icon src="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da844" />
+    <url>http://www.dsmart.com.tr</url>
+  </channel>
+  <channel id="KRA.TR">
+    <display-name lang="tr">Kral</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="KA7.TR">
+    <display-name lang="tr">Kanal 7</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="TE2.TR">
+    <display-name lang="tr">Teve2</display-name>
+    <url>http://www.digiturk.com.tr</url>
+  </channel>
+  <channel id="11.IL">
+    <display-name lang="he">כאן11</display-name>
+    <url>http://www.isramedia.net</url>
+  </channel>
+  <channel id="13.IL">
+    <display-name lang="he">רשת 13</display-name>
+    <url>http://www.isramedia.net</url>
+  </channel>
+  <channel id="24.IL">
+    <display-name lang="he">ערוץ 24</display-name>
+    <url>http://www.isramedia.net</url>
+  </channel>
+  <channel id="20.IL">
+    <display-name lang="he">ערוץ 20</display-name>
+    <url>http://www.tv.walla.co.il</url>
+  </channel>
+  <channel id="33.IL">
+    <display-name lang="he">مكان</display-name>
+    <url>http://www.tv.walla.co.il</url>
+  </channel>
+  <channel id="Alb.UK">
+    <display-name lang="en">BBC Alba</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2012.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Ari.KR">
+    <display-name lang="en">Arirang</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1066.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ATN.BD">
+    <display-name lang="en">ATN</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb6753.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="NTV.BD">
+    <display-name lang="en">NTV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4540.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="92N.PK">
+    <display-name lang="en">92 News</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3822.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ARY.PK">
+    <display-name lang="en">ARY Digital</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4265.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ADU.AE">
+    <display-name lang="en">Abu Dhabi Al Oula</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3209.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BRM.UK">
+    <display-name lang="en">British Muslim</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5417.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BXH.UK">
+    <display-name lang="en">Box Hits</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1350.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BBN.UK">
+    <display-name lang="en">BBC News</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2011.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BB1.UK">
+    <display-name lang="en">BBC 1</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2076.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BB2.UK">
+    <display-name lang="en">BBC 2</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2006.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BB4.UK">
+    <display-name lang="en">BBC 4</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2018.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT1.UK">
+    <display-name lang="en">BT Sports 1</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3661.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT2.UK">
+    <display-name lang="en">BT Sports 2</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3663.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT3.UK">
+    <display-name lang="en">BT Sports 3</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5032.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BTE.UK">
+    <display-name lang="en">BT Sports ESPN</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3141.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="AKK.IN">
+    <display-name lang="en">Channel Akkal</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5087.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBB.UK">
+    <display-name lang="en">CBBC</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2020.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CBE.UK">
+    <display-name lang="en">CBeebies</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2019.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CNW.News">
+    <display-name lang="en">CNBC World</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1088.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CH4.UK">
+    <display-name lang="en">Channel 4</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1621.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CH5.UK">
+    <display-name lang="en">Channel 5 UK</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1800.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="EUR.News">
+    <display-name lang="en">Euronews</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4604.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="4SV.UK">
+    <display-name lang="en">4seven</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3150.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="CE4.UK">
+    <display-name lang="en">E4</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4076.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FM4.UK">
+    <display-name lang="en">Film 4</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4044.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FOC.UK">
+    <display-name lang="en">Forces TV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5415.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FON.UK">
+    <display-name lang="en">Food Network</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3590.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GLD.UK">
+    <display-name lang="en">Gold</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2903.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GEO.PK">
+    <display-name lang="en">Geo TV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4110.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="IT1.UK">
+    <display-name lang="en">ITV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb6000.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="IT2.UK">
+    <display-name lang="en">ITV2</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb6532.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="IT3.UK">
+    <display-name lang="en">ITV3</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb6533.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="IT4.UK">
+    <display-name lang="en">ITV4</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb6534.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="KIS.UK">
+    <display-name lang="en">Kiss</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3656.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="KER.UK">
+    <display-name lang="en">Kerrang!</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1853.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MAD.PK">
+    <display-name lang="en">Madani TV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4460.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MAG.UK">
+    <display-name lang="en">Magic</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1877.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="POP.UK">
+    <display-name lang="en">POP</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3750.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="PTV.PK">
+    <display-name lang="en">PTV Global</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3646.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="RTN.IE">
+    <display-name lang="en">RTÉ News Now</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2804.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="REA.UK">
+    <display-name lang="en">Really</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2325.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SAM.PK">
+    <display-name lang="en">Samaa</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3722.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SMA.UK">
+    <display-name lang="en">Sony Movies Action</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3708.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SMC.UK">
+    <display-name lang="en">Sony Classic</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3643.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="S4C.UK">
+    <display-name lang="en">S4C</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1253.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TRT.News">
+    <display-name lang="en">TRT World</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5071.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TG4.IE">
+    <display-name lang="en">TG4</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1253.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TPO.UK">
+    <display-name lang="en">Tiny Pop</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3780.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TBX.UK">
+    <display-name lang="en">The Box</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1802.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="VEN.PK">
+    <display-name lang="en">Venus TV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3720.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="ADU.CA">
+    <display-name lang="en">Adult Swim</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/adult-swim.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC.News">
+    <display-name lang="en">CBC News</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/cbc_news_network.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="CBC.CA">
+    <display-name lang="en">CBC</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/cbc2015.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="GLN.CA">
+    <display-name lang="en">Global News</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/global.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI.News">
+    <display-name lang="en">ICI RDI</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/rdi.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ICI.CA">
+    <display-name lang="en">ICI Tele</display-name>
+    <icon src="https://tvtv.ca/tvm/i/image/station/100x100/src.png" />
+    <url>http://www.tvtv.ca</url>
+  </channel>
+  <channel id="ACC.US">
+    <display-name lang="en">ACC Network</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="AHC.US">
+    <display-name lang="en">AHC</display-name>
+    <icon src="https://streamingtvguides.com/img/s/AHC.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="BET.US">
+    <display-name lang="en">BET</display-name>
+    <icon src="https://streamingtvguides.com/img/s/BET.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="BTN.US">
+    <display-name lang="en">Big Ten Network</display-name>
+    <icon src="https://streamingtvguides.com/img/s/BIGTEN.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="BUZ.US">
+    <display-name lang="en">BUZZR</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="CHD.US">
+    <display-name lang="en">Cheddar</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="CAS.US">
+    <display-name lang="en">Classic Arts Showcase</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="CMT.US">
+    <display-name lang="en">Country Music Television</display-name>
+    <icon src="https://streamingtvguides.com/img/s/CMTV.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="COM.US">
+    <display-name lang="en">Comedy Central</display-name>
+    <icon src="https://streamingtvguides.com/img/s/COMEDY.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="CBS.US">
+    <display-name lang="en">CBS Sports HQ</display-name>
+    <icon src="https://streamingtvguides.com/img/s/CBSSN.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="ES1.US">
+    <display-name lang="en">ESPN</display-name>
+    <icon src="https://streamingtvguides.com/img/s/ESPN.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="ES2.US">
+    <display-name lang="en">ESPN2</display-name>
+    <icon src="https://streamingtvguides.com/img/s/ESPN2.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="ESN.US">
+    <display-name lang="en">ESPN News</display-name>
+    <icon src="https://streamingtvguides.com/img/s/ESPNEWS.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="ESU.US">
+    <display-name lang="en">ESPN U</display-name>
+    <icon src="https://streamingtvguides.com/img/s/ESPNU.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="FXB.US">
+    <display-name lang="en">Fox Business</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FBN.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="FS1.US">
+    <display-name lang="en">Fox Sports 1 USA</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FS1.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="FS2.US">
+    <display-name lang="en">Fox Sports 2 USA</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FS2.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="FXS.US">
+    <display-name lang="en">Fox Soccer Plus</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FSP.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="FDP.US">
+    <display-name lang="en">Fox Deportes</display-name>
+    <icon src="https://streamingtvguides.com/img/s/FXDEP.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="FSP.US">
+    <display-name lang="en">Free Speech TV</display-name>
+    <icon src="https://streamingtvguides.com/img/d/FSTV.png" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="GOL.US">
+    <display-name lang="en">GOLTV</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="MAV.US">
+    <display-name lang="en">MavTV</display-name>
+    <icon src="https://streamingtvguides.com/img/d/MAVTV.png" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="NFL.US">
+    <display-name lang="en">NFL Network</display-name>
+    <icon src="https://streamingtvguides.com/img/s/NFLNET.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="MLB.US">
+    <display-name lang="en">MLB Network</display-name>
+    <icon src="https://streamingtvguides.com/img/d/MLBN.png" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="NMA.US">
+    <display-name lang="en">Newsmax</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="OLY.US">
+    <display-name lang="en">Olympic Channel</display-name>
+    <icon src="https://streamingtvguides.com/img/s/OLY.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="PAN.US">
+    <display-name lang="en">Paramount Network</display-name>
+    <icon src="https://streamingtvguides.com/img/s/PAR.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="POP.US">
+    <display-name lang="en">POP</display-name>
+    <icon src="https://streamingtvguides.com/img/s/POP.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="SEC.US">
+    <display-name lang="en">SEC Network</display-name>
+    <icon src="https://streamingtvguides.com/img/s/SEC.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="TBE.US">
+    <display-name lang="en">TBS East</display-name>
+    <icon src="https://streamingtvguides.com/img/s/TBS.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="TBW.US">
+    <display-name lang="en">TBS West</display-name>
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="TNT.US">
+    <display-name lang="en">TNT</display-name>
+    <icon src="https://streamingtvguides.com/img/s/TNT.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="TEN.US">
+    <display-name lang="en">Tennis Channel</display-name>
+    <icon src="https://streamingtvguides.com/img/s/TENNIS.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="TVL.US">
+    <display-name lang="en">TV Land</display-name>
+    <icon src="https://streamingtvguides.com/img/s/TVLAND.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="WEA.US">
+    <display-name lang="en">Weather Channel</display-name>
+    <icon src="https://streamingtvguides.com/img/s/WEATH.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="VH1.US">
+    <display-name lang="en">VH1</display-name>
+    <icon src="https://streamingtvguides.com/img/s/VH1.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="ZLI.US">
+    <display-name lang="en">Z Living</display-name>
+    <icon src="https://streamingtvguides.com/img/s/ZLIVING.svg" />
+    <url>http://www.streamingtvguides.com</url>
+  </channel>
+  <channel id="RCN.CO">
+    <display-name lang="es">Canal RCN</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+ 
+
 <channel update="i" site="ftpplay.net" site_id="27" xmltv_id="HN1.VN">Hà Nội 1 HD</channel>
 <channel update="i" site="ftpplay.net" site_id="28" xmltv_id="HN1.VN">Hà Nội 2 HD</channel>
 <channel update="i" site="ftpplay.net" site_id="31" xmltv_id="HBTV.VN">Hòa Bình</channel>
