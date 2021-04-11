@@ -1245,9 +1245,117 @@ touch-action: pan-y;
         
 
     </div>
-  <div class="text_center ads"><a href=""><img src="http://hanoitv.vn/upload/728x90.jpg"> </a> </div>
+  <div class="text_center ads"><a href=""><img src=" "> </a> </div>
 </div>
 </div>
+		<script>
+        idleInterval = setInterval(timerIncrement, 180000); // 1 minute
+
+    function timerIncrement() {
+        var link = "/?mod=media&act=check_youtube";
+        var status_curent = "1";
+
+        $.ajax({
+            type: "POST",
+            url: link,
+            dataType: "html",
+            data: {"status_curent":status_curent},
+            success: function(msg){
+                if(msg == 1) {
+                    location.reload();
+                }
+            }
+        });
+    }
+
+
+    if(window.location.hash == '#hanoi2') {
+        $(".btn_changelive a").removeClass("btn_active");
+        $(".btn_changelive a[data=hanoi2]").addClass("btn_active");
+        $(".ctTitle").text("KCTV - Truyền hình Trung ương Triều Tiên HD");
+        $(".slt_channel").val(266).trigger('change');
+        data = window.location.hash.replace("#", "");
+                        jwplayer('container').setup({
+                    file: 'http://gg.gg/KCTV-Truyen_hinh_Trung_uong_Trieu_Tien',
+                    title: '002',
+                    width: '100%',
+                    aspectratio: '16:9',
+                    autostart: 'true',
+                    primary: 'html5',
+                    stretching: "exactfit",
+                });
+                }
+    
+    function change_tv(data) {
+        link = "/index.php?mod=media&act=ajaxtruyenhinh";
+        $.ajax({
+            type: "POST",
+            url: link,
+            dataType: "html",
+            data: {"channel":data},
+            success: function(msg){
+                jwplayer('container').setup({
+                    file: msg,
+                    title: 'HaNoitv',
+                    width: '100%',
+                    aspectratio: '16:9',
+                    autostart: 'true',
+                    primary: 'html5',
+                    stretching: "exactfit",
+                });
+            }
+        });
+    }
+    
+
+
+    $(".btn_changelive a").click(function(){
+        $(".btn_changelive a").removeClass("btn_active");
+        $(this).addClass("btn_active");
+        data = $(this).attr("data");
+        file = 'http://hntv.cdn.mediatech.vn/'+data+'.m3u8';
+        if(data == 'hanoi2') {
+            $(".ctTitle").text("Truyền hình trực tuyến Kênh H2");
+            $("#iframeShare").attr("value","<iframe src='http://hanoitv.vn/manhunghn2.html' width='1280' height='720' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>");
+            $(".slt_channel").val(266).trigger('change');
+            file = 'http://hntv.cdn.mediatech.vn/hanoi2.m3u8';
+            $("#container").empty();
+                   jwplayer('container').setup({
+                file: file,
+                title: 'HaNoitv',
+                width: '100%',
+                aspectratio: '16:9',
+                autostart: 'true',
+                primary: 'html5',
+                stretching: "exactfit",
+            });
+        
+
+        }
+        else {
+            $(".ctTitle").text("Truyền hình trực tuyến Kênh H1");
+            $("#iframeShare").attr("value","<iframe src='http://hanoitv.vn/manhunghn1.html' width='1280' height='720' frameborder='0' scrolling='no' allowfullscreen='true'></iframe>");
+            $(".slt_channel").val(265).trigger('change');
+$("#container").empty();
+                           jwplayer('container').setup({
+                    file: file,
+                    title: 'HaNoitv',
+                    width: '100%',
+                    aspectratio: '16:9',
+                    autostart: 'true',
+                    primary: 'html5',
+                    stretching: "exactfit",
+                });
+                    }
+
+
+    });
+
+
+
+
+
+</script>
   <div class="media-box">
               <div class="video-js vjs-big-play-centered video-js-responsive-container vjs-hd vjs-default-skin vjs-paused hls-video-dimensions vjs-controls-enabled vjs-workinghover vjs-v7 vjs-user-active vjs-live" poster="/common/v1/images/lo.png" id="hls-video" tabindex="-1" role="region" lang="vi-vn" aria-label="Video Player">
                 <video id="hls-video_html5_api" poster="/common/v1/images/lo.png" class="vjs-tech" tabindex="-1" role="application" src=" ">
